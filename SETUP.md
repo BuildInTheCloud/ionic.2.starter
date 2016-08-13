@@ -1,10 +1,11 @@
 # Inital setup
-1. `npm install`
+1. download this project as a zip file and unzip in your project folder.
 2. `npm install -g cordova`
 3. `npm install -g ionic@beta`
 4. `typings install`, requires `npm install -g typings`
-5. `ionic plugins install`. install cordova plugins listed in the `config.xml`.
-6. `ionic plugin add https://github.com/VersoSolutions/CordovaClipboard.git --save`,
+5. `npm install`
+6. `ionic plugins install`. install cordova plugins listed in the `config.xml`.
+7. `ionic plugin add https://github.com/VersoSolutions/CordovaClipboard.git --save`,
 this is a plugin for this example. Use this style to add plugins to your project.
 Not all plugins support all platforms. Make sure the plugin support you target platforms.
 
