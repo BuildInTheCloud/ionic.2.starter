@@ -1,3 +1,7 @@
+# Windows Setup
+
+1. Install visual studio 2015 community
+
 # windows 10 build and test
 reference:
 
