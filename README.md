@@ -11,15 +11,15 @@ All the sugested changes are at the directory level of the app.
 post a suggestion https://github.com/BuildInTheCloud/ionic.2.starter/issues
 
 # Guides
-[Setup / Getting Started](SETUP.md)
+[Setup / Getting Started](guides/SETUP.md)
 
-[Development Guide](DEV.md)
+[Development Guide](guides/DEV.md)
 
-[Windows 10 build and deploy](WINDOWS10.md)
+[Windows 10 build and deploy](guides/WINDOWS10.md)
 
-[Android build and deploy](ANDROID.md)
+[Android build and deploy](guides/ANDROID.md)
 
-[iOS build and deploy](IOS.md)
+[iOS build and deploy](guides/IOS.md)
 
 # Donate
 All development takes time to create. If you find this app useful, please donate so I can add more features.
